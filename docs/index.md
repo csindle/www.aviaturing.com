@@ -1,8 +1,13 @@
 ---
-layout: home
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: page
+description: Introduction to Aviaturing
+
 title: Home
-description: Introduction to Aviaturing Aviation Radio and Software Services
 ---
 
-Please contact info@aviaturing.com for more information.
+Aviaturing builds bespoke and production radio frequency hardware and software systems.
 
+Please email us for more information.
