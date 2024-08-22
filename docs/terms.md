@@ -1,4 +1,7 @@
-# **Aviaturing Terms and Conditions**
+---
+layout: page
+title: Terms and Conditions
+---
 
 Please read these terms and conditions ("terms and conditions", "terms") carefully before using https://www.aviaturing.com (“website”, "service") operated by Aviaturing ("us", 'we", "our").
 
