@@ -22,7 +22,7 @@ title: Aviaturing
 email: info@aviaturing.com
 #author: "Colin Sindle"
 description: >- # this means to ignore newlines until "baseurl:"
-  Aviaturing Aviation Radio Frequency and Software Specialists
+  Aviaturing (Pty) Ltd Aviation Radio Frequency and Software Specialists
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.aviaturing.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: 
@@ -33,9 +33,11 @@ theme: minima
 #plugins:
 #  - jekyll-sitemap
 
-# header_pages:
-#   - index.md
-#   - projects.md
+header_pages:
+  - index.md
+  - projects.md
+  - terms.md
+  - privacy.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
