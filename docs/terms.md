@@ -11,7 +11,7 @@ By using this website, you certify that you have read and reviewed this Agreemen
 
 **Privacy policy**
 
-Before you continue using our website, we advise you to read our privacy [policy](https://www.aviaturing.com/terms) regarding our user data collection. It will help you better understand our practices.
+Before you continue using our website, we advise you to read our privacy [policy](https://www.aviaturing.com/privacy) regarding our user data collection. It will help you better understand our practices.
 
 **Age restriction**
 
